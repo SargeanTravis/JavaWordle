@@ -1,5 +1,5 @@
 # JavaWordle
-A java Application for wordle
+A Java Application for wordle
 
 
 There is two versions of this project: JavaWordle in IntelliJ, and JavaWordleEclipse which is the Eclipse port of this project (Both work as intended but eclipse requires slightly different imports)
