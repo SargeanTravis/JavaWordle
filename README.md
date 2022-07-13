@@ -8,4 +8,4 @@ For Eclipse, there is probably not a .jar that automatically launches the projec
 
 Known Issues:
 -Cannot close program directly from a Game Over screen (Low Priority)
--Guss checker will occasionally label Right Letter, wrong spot letters as wrong letter. This can cause wordle difficulties. (High Priority)
+-Guess checker will occasionally label Right Letter, wrong spot letters as wrong letter. This can cause wordle difficulties. (High Priority)
